@@ -1,0 +1,49 @@
+body{
+    background-image: url(image/2.jpg);
+    background-size: cover;
+    background-color: aqua;
+}
+#saeed{
+    color:red;
+
+}
+.edit{
+    color:green;
+    text-align : center;
+    
+
+}
+.flx{
+    display: inline-block;
+    float: right;
+}
+
+.fl{
+    float: left;
+}
+.crd{
+    text-align:left;
+}
+
+.imp{
+    opacity: 0.5;
+    background-color: black;
+}
+
+.h1{
+    text-align: center;
+    border-style: double;
+    border-color: green;
+    background-color: none;
+}
+
+.h2{
+    text-align:left;
+}
+.Btn{
+    color:white;
+    text-align:left;
+}
+.profile{
+    color: white;
+}

@@ -1,0 +1,10 @@
+body{
+    background-image: url(./image/loginbg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.edit{
+    color:green;
+    text-align : center;
+    
+
+}
